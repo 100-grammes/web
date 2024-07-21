@@ -2,8 +2,8 @@
   "AddOns": {
     "[Uid]": {
       "Name": "Nom d'ajout",
-      "UnitOfMeasure": "unité",
-      "UnitOfMeasurePlural": "unités"
+      "UnitOfMeasure": "personne",
+      "UnitOfMeasurePlural": "personnes"
     }
   },
   "Countries": {
