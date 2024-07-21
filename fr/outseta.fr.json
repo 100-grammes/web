@@ -34,7 +34,7 @@
     "PaymentInformationRequired": "Saisir les informations de paiement de ton compte.",
     "RefreshToContinue": "Actualiser pour continuer",
     "RegistrationRateExceeded": "Les serveurs sont trop occupés en ce moment. STP réessayer plus tard.",
-    "SubscriptionExpired": "Ton abonnement a expiré, choisis un forfait pour continuer.",
+    "SubscriptionExpired": "Ton abonnement a expiré, choisis maintenant un forfait pour continuer.",
     "SubscriptionQuantityUpgradeRequired": "Tu dois augmenter le nombre d'abonnement à {{newRequiredQuantity}} ou plus.",
     "SystemError": "Une erreur système s'est produite. STP réessayer plus tard.",
     "UnknownError": "Une erreur système s'est produite. STP réessayer plus tard.",
