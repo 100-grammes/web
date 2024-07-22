@@ -236,7 +236,7 @@
     "PlanCancelReasonText": "STP dis-nous en plus sur la raison de ton départ (facultatif mais apprécié):",
     "PlanCancelReasonTooExpensive": "Prix elevé",
     "PlanCancelReasonTooHardToUse": "Trop difficile à utiliser",
-    "PlanCancellingText": "Ton forfait prendra fin le <strong> {{cancelDate}} </strong>.",
+    "PlanCancellingText": "Ton forfait prendra fin le <strong>{{cancellationDate}}</strong>.",
     "PlanChange": "Changer de forfait",
     "PlanChangeConfirmation": "Confirmé.",
     "PlanChangeConfirmationText": "Forfait changé.",
